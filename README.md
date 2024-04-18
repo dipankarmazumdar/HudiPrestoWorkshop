@@ -7,6 +7,8 @@ The workshop will leverage a 1 GB TPC-DS dataset to demonstrate the various capa
 
 ## Environment Details
 All the required open source software and its dependencies will be pre-installed for the workshop session. Attendees will use `Jupyter Notebook` to run various read and write queries on Apache Hudi using Presto and Spark SQL. Users will also have access to Presto UI for additional analysis and debugging.
+![Example Image](img.jpg)
+
 
 ## Description
 The lakehouse architecture combines the flexibility, scalability, and cost-efficiency of data lakes with the robust data management features of data warehouses. This workshop is designed to provide data engineers & architects with a comprehensive understanding of Apache Hudi and use it to build an open lakehouse architecture on AWS S3, utilizing Presto as the engine for fast and interactive queries.
