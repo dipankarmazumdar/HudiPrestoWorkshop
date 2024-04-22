@@ -20,3 +20,10 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 - Practical exercises on creating different Hudi tables (CoW, MoR) on S3, ingesting data, performing upserts/deletes, and synching with catalogs such as Hive Metastore.
 - Various ways of querying data using Presto including snapshot and read-optimized queries.
 - Application of clustering table service & metadata table to observe firsthand improvements in query speed on the Presto-side.
+
+## Getting Started
+1. Login to jupyter[X].onehouseworkshop.com (X - will be a number assigned & unique to you. Please DO NOT USE any other numbers)
+2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file
+3. Open the Notebook to follow the workshop instructor in executing the code
+4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions
+5. Please DO NOT create any additional notebook with Spark running
