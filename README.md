@@ -24,7 +24,6 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 ## Housekeeping Rules
 - 3 Sections in sequence - (spend ~30-40 mins each)
 - Attendees are expected to follow the instructor in each section but are free to execute code on their own
-- Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file
 - Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
 - Attendees will follow a particular section until they reach the allotted time
 - Instructor will wait for 50%+ attendees to finish a section; then go on to the next section
@@ -40,4 +39,4 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file
 3. Open the Notebook to follow the workshop instructor in executing the code
 4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions
-5. Please DO NOT create any additional notebook with Spark running
+5. Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
