@@ -35,7 +35,7 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 
 
 ## Getting Started
-1. Login to jupyter[X].onehouseworkshop.com (X - will be a number assigned & unique to you. Please DO NOT USE any other numbers)
+1. Login to `jupyter[X].onehouseworkshop.com` (X - will be a number assigned & unique to you. Please DO NOT USE any other numbers)
 2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file
 3. Open the Notebook to follow the workshop instructor in executing the code
 4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions
