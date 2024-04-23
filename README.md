@@ -21,7 +21,7 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 - Various ways of querying data using Presto including snapshot and read-optimized queries.
 - Application of clustering table service & metadata table to observe firsthand improvements in query speed on the Presto-side.
 
-## Housekeeping Rules
+## Housekeeping Rules (for the Workshop)
 - 3 Sections in sequence - (spend ~30-40 mins each)
 - Attendees are expected to follow the instructor in each section but are free to execute code on their own
 - Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
