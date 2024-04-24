@@ -28,15 +28,15 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 - Attendees will follow a particular section until they reach the allotted time
 - Instructor will wait for 50%+ attendees to finish a section; then go on to the next section
 - For any questions/issues, attendees are encouraged to put it in the Zoom Chat
-- Attendees that need detailed troubleshooting can join the Slack channel: `hudi-presto-workshop-04-24` (PMC members for help)
+- Attendees that need detailed troubleshooting can join the Slack channel: [`hudi-presto-workshop-04-24`](https://join.slack.com/t/apache-hudi/shared_invite/zt-2ggm1fub8-_yt4Reu9djwqqVRFC7X49g)
 - For Slack Huddle, attendees will need to get out of Zoom & rejoin after the Huddle
 - The Cluster will be available for 2 hours post workshop
 - Be patient with the Queries - Hard to strike a sweet spot between scale & latency
 
 
 ## Getting Started
-1. Login to `jupyter[X].onehouseworkshop.com` (X - will be a number assigned & unique to you. Please DO NOT USE any other numbers)
-2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file
+1. Link to the Jupyter notebook & PrestoUI will be provided in the workshop (replace it with your assigned `number`)
+2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file. Some of you should see this directly when you open Jupyter.
 3. Open the Notebook to follow the workshop instructor in executing the code
 4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions
 5. Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
