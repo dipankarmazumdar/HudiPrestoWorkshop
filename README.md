@@ -38,6 +38,6 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 1. Link to the Jupyter notebook & PrestoUI will be provided in the workshop (replace it with your assigned `number`)
 2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file. Some of you should see this directly when you open Jupyter.
 3. Open the Notebook to follow the workshop instructor in executing the code
-4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions
+4. The `/notebooks/commons/` folder will contain another notebook `HudiUtilityFunctions.ipynb`. This is where we have all the utility functions. Some of you should see this directly when you open Jupyter.
 5. Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
 6. If at any point you are stuck & want to restart the entire session, go to `Kernel` & hit `Restart`. Then follow the sequence.
