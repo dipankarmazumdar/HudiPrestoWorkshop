@@ -21,19 +21,6 @@ The lakehouse architecture combines the flexibility, scalability, and cost-effic
 - Various ways of querying data using Presto including snapshot and read-optimized queries.
 - Application of clustering table service & metadata table to observe firsthand improvements in query speed on the Presto-side.
 
-## Housekeeping Rules (for the Workshop)
-- 3 Sections in sequence - (spend ~30-40 mins each)
-- Attendees are expected to follow the instructor in each section but are free to execute code on their own
-- Attendees SHOULD NOT CREATE any additional notebooks other than the ones provided in their environment
-- Attendees will follow a particular section until they reach the allotted time
-- Instructor will wait for 50%+ attendees to finish a section; then go on to the next section
-- For any questions/issues, attendees are encouraged to put it in the Zoom Chat
-- Attendees that need detailed troubleshooting can join the Slack channel: [`hudi-presto-workshop-04-24`](https://join.slack.com/t/apache-hudi/shared_invite/zt-2ggm1fub8-_yt4Reu9djwqqVRFC7X49g)
-- For Slack Huddle, attendees will need to get out of Zoom & rejoin after the Huddle
-- The Cluster will be available for 2 hours post workshop
-- Be patient with the Queries - Hard to strike a sweet spot between scale & latency
-
-
 ## Getting Started
 1. Link to the Jupyter notebook & PrestoUI will be provided in the workshop (replace it with your assigned `number`)
 2. Navigate to `/notebooks/` & you will see the `Hudi_Presto_Workshop.ipynb` file. Some of you should see this directly when you open Jupyter.
