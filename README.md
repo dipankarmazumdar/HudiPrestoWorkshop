@@ -3,7 +3,7 @@
 In this hands-on workshop, we'll learn how to build a open lakehouse architecture using `Apache Hudi`, `PrestoDB` on a cloud data lake `Amazon S3`. Additonally, we will take advantage of Hudi's `metadata table` and `clustering` table service to optimally organize data in S3.
 
 ## Dataset
-The workshop will leverage a 1 GB TPC-DS dataset to demonstrate the various capabilities of `read` and `write` operations with Hudi and Presto. The dataset is made available at a common S3 location (`s3://presto-workshop-bucket`) accessible to workshop attendees.
+The workshop will leverage a 1 GB TPC-DS dataset to demonstrate the various capabilities of `read` and `write` operations with Hudi and Presto. The dataset is made available at a common S3 location (`s3://bucket`) accessible to workshop attendees.
 
 ## Environment Details
 All the required open source software and its dependencies will be pre-installed for the workshop session. Attendees will use `Jupyter Notebook` to run various read and write queries on Apache Hudi using Presto and Spark SQL. Users will also have access to Presto UI for additional analysis and debugging.
